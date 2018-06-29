@@ -1,0 +1,7 @@
+Environment for Legacy Appliciation Build
+
+Windows 7 SP1
+GitKraken 3.6.4
+Microsoft Visual C++ 2012 Redistributable
+cmake 3.12
+Visual Studio Code 1.24.1

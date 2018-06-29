@@ -1,0 +1,6 @@
+Environment for Application Development
+
+Windows 10 (Version 1709)
+Python 3.6
+PyCharm 2018.1.3
+GitKraken 3.6.4

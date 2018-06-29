@@ -1,0 +1,7 @@
+Environment for Application Build
+
+Windows 10 (Version 1709)
+GitKraken 3.6.4
+Microsoft Visual C++ 2015 Redistributable
+cmake 3.12
+Visual Studio Code 1.24.1

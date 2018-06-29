@@ -1,0 +1,6 @@
+Environment for RTOS Development
+
+Red Hat (RHEL 7.2)
+Wind River Simics 5
+Wind River VXWorks 6.9
+Eclipse 3.8

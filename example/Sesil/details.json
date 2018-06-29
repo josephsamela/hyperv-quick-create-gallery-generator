@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Hardware Requirements",
+        "value": "4 Core CPU, 8GB RAM, 128 GB Disk"
+    },
+    {
+        "name": "Additional info",
+        "value": "Boots to OOBE (no users)"
+    }
+]
